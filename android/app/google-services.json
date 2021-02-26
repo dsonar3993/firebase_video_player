@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175711335157",
+    "project_id": "blueboxvp",
+    "storage_bucket": "blueboxvp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175711335157:android:bf69d8e127044e26a48bbc",
+        "android_client_info": {
+          "package_name": "com.digvijay.firebase_video_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175711335157-ddqcm6kajtr6h9hvv6hv6u95s0kfutpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlDSaWUFEva8TFvoAw1AL6F_Xr1dr3WiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175711335157-ddqcm6kajtr6h9hvv6hv6u95s0kfutpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
